@@ -1,0 +1,16 @@
+{
+  "name": "yt-backend",
+  "version": "1.0.0",
+  "description": "backend with chai aur code on YT",
+  "keywords": [
+    "javscript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "FADI",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
